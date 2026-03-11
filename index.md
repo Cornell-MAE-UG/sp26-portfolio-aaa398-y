@@ -6,7 +6,7 @@ title: Andre Ababio
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/photo_2026-03-11_07-20-19.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/andre profile pic.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is Andre Ababio, and I am a Civil Engineering student in the College of Engineering at Cornell University with interests in structural and transportation engineering.
