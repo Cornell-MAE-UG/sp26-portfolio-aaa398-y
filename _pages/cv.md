@@ -1,35 +1,35 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Andre Ababio - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [aaa398@cornell.edu](mailto:aaa398@cornell.edu) | | | **Phone:** +1(607) 379-3213
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring civil engineering student with a strong foundation in math and environmental science. Passionate about environmentally concious solutions to transportation and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Civil and Environmental Engineering*  
+  GPA: 3.8 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **Saint Adelaide's International Schools**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk, Fusion 360, SolidWorks, ANSYS  
 - **Programming:** Python, MATLAB  
 - **Tools:** 3D Printing, Laser Cutting  
 
