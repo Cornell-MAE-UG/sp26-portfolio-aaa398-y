@@ -3,7 +3,7 @@ layout: default
 title: Andre Ababio - Portfolio
 permalink: /projects/
 ---
-
+This page showcases my engineering projects
 <div class="gallery-container">
 <div class="project-gallery">
     {% for project in site.projects %}
